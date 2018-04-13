@@ -1,0 +1,36 @@
+html {
+	height: 100%;
+	margin-left: 3%;
+	background: url(IMG_1653.JPG) no-repeat bottom center fixed;
+	background-size: cover;
+}
+
+body {
+	min-height: 100%;
+	background-color: transparent;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+h1 {
+	font-size: 2rem;
+	text-align: center;
+}
+
+h1:hover {
+	color: #303C74;
+	transition: 0.5s ease-in-out;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+.catchphrase {
+	text-align: center;
+}
